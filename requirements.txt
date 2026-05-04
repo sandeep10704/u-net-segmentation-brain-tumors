@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+
+opencv-python
+Pillow
+scikit-image
+nibabel
+
+scikit-learn
+
+tensorflow==2.19
+keras
+
+glob2
+streamlit
+imageio
